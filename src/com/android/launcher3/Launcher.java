@@ -417,7 +417,7 @@ public class Launcher extends BaseActivity
         mSettingsObserver = new SystemThemeObserver(this.getContentResolver());
         mSettingsObserver.register("system_ui_theme");
         mSystemTheme = mSettingsObserver.getSettingInt();
-        boolean forceDark = mSystemTheme == 2;
+        boolean forceDark = mSystemTheme == 2 || mSystemTheme == 3;
         boolean forceLight = mSystemTheme == 1;
         overrideTheme(wallpaperColorInfo.isDark(), wallpaperColorInfo.supportsDarkText(), forceDark, forceLight);
 
