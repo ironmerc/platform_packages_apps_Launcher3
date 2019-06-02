@@ -33,7 +33,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="icon_layout_title">アイコンレイアウト</string>
     <!-- Icon packs -->
     <string name="icon_pack">アイコンパック</string>
-    <string name="icon_pack_summary">アプリアイコンの外観を変更</string>
+    <string name="icon_pack_summary">アプリアイコンの外観を変更する</string>
     <string name="icon_pack_none">既定</string>
     <string name="edit_drop_target_label">編集</string>
     <string name="edit_hint">アイコンの名前</string>
