@@ -105,5 +105,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <!-- QuickSpace -->
     <string name="show_quickspace_title">En bref</string>
     <string name="show_quickspace_summary">Montrer en haut de votre écran d\'accueil</string>
-    <string name="abbrev_wday_month_day_no_year">EEEEdMMM</string>
 </resources>

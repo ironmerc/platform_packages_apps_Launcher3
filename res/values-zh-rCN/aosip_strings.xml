@@ -105,5 +105,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <!-- QuickSpace -->
     <string name="show_quickspace_title">一目了然</string>
     <string name="show_quickspace_summary">在主屏幕的顶部显示</string>
-    <string name="abbrev_wday_month_day_no_year">EEEEMMMd</string>
 </resources>

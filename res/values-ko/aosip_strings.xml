@@ -105,5 +105,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <!-- QuickSpace -->
     <string name="show_quickspace_title">한 눈에 보기</string>
     <string name="show_quickspace_summary">홈 화면 상단에 표시</string>
-    <string name="abbrev_wday_month_day_no_year">EEEEMMMd</string>
 </resources>
