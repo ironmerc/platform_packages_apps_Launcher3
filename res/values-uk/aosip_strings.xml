@@ -20,33 +20,33 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="settings_title">Налаштування</string>
     <!-- Categories -->
     <string name="home_category_title">Домашній екран</string>
-    <string name="home_category_summary">Grid layout, app labels and dock</string>
+    <string name="home_category_summary">Макет сітки, ярлики додатків і док-станція</string>
     <string name="icons_category_title">Іконки</string>
-    <string name="icons_category_summary">Icon pack, shape, size and notification dots</string>
+    <string name="icons_category_summary">Набір іконок, форма, розмір і крапки сповіщень</string>
     <string name="app_drawer_category_title">Меню додатків</string>
-    <string name="app_drawer_category_summary">Hide apps and app drawer labels</string>
+    <string name="app_drawer_category_summary">Сховати додатки і підписи до них</string>
     <string name="gestures_category_title">Жести</string>
-    <string name="gestures_category_summary">Double tap, swipe down and clear-all gestures</string>
-    <string name="gestures_other_category_title">Other</string>
+    <string name="gestures_category_summary">Жести подвійного натискання, свайпа вниз і очищення</string>
+    <string name="gestures_other_category_title">Інше</string>
     <!-- Sub categories -->
     <string name="home_grid_title">Схема сітки</string>
     <string name="icon_layout_title">Розташування іконок</string>
     <!-- Icon packs -->
     <string name="icon_pack">Набір іконок</string>
     <string name="icon_pack_summary">Змінити вигляд іконок ваших додатків</string>
-    <string name="icon_pack_none">Default</string>
-    <string name="edit_drop_target_label">Edit</string>
-    <string name="edit_hint">Icon name</string>
-    <string name="reset_icon">Reset</string>
-    <string name="all_icons">All icons</string>
-    <string name="similar_icons">Similar icons</string>
-    <string name="ok">Ok</string>
-    <string name="icon_label">Label</string>
-    <string name="loading">Loading, please wait</string>
-    <string name="icon_chooser">Icon chooser</string>
-    <string name="icon_search">Search for icons</string>
+    <string name="icon_pack_none">За замовчуванням</string>
+    <string name="edit_drop_target_label">Редагувати</string>
+    <string name="edit_hint">Назва іконки</string>
+    <string name="reset_icon">Скинути</string>
+    <string name="all_icons">Усі іконки</string>
+    <string name="similar_icons">Схожі іконки</string>
+    <string name="ok">Гаразд</string>
+    <string name="icon_label">Мітка</string>
+    <string name="loading">Завантаження, будь ласка, зачекайте</string>
+    <string name="icon_chooser">Вибір іконки</string>
+    <string name="icon_search">Пошук значків</string>
     <!-- Toast message for alerting users that no icon packs are available. -->
-    <string name="msg_no_icon_pack">No icon packs available</string>
+    <string name="msg_no_icon_pack">Немає доступного набору іконок</string>
     <!-- Icon shape -->
     <string name="icon_shape_override_label_custom">Форма іконок</string>
     <string name="icon_shape_rounded_square">Квадрат із закругленими кутами</string>
@@ -55,23 +55,23 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <!-- Gestures -->
     <string name="allow_swipe_down_clearall_title">Очистити все з меню останніх</string>
     <string name="allow_swipe_down_clearall_desc">Свайпніть вниз в меню нещодавніх, щоб очистити всі додатки</string>
-    <string name="pref_homescreen_dt_gestures_title">Double tap</string>
-    <string name="pref_homescreen_swipe_down_gestures_title">Swipe down</string>
-    <string name="pref_homescreen_swipe_up_gestures_title">Swipe up</string>
-    <string name="pref_homescreen_gestures_none">None</string>
-    <string name="pref_homescreen_gestures_sleep">Screen off</string>
-    <string name="pref_homescreen_gestures_torch">Flashlight</string>
-    <string name="pref_homescreen_gestures_google">Google search</string>
-    <string name="pref_homescreen_dt_gestures_google_toast">Google search is not installed</string>
-    <string name="pref_homescreen_gestures_volume_panel">Volume panel</string>
-    <string name="pref_homescreen_gestures_clear_notifications">Clear notifications</string>
-    <string name="pref_homescreen_gestures_screenshot">Screenshot</string>
-    <string name="pref_homescreen_gestures_notifications">Notifications</string>
-    <string name="pref_homescreen_gestures_qs_panel">QS panel</string>
-    <string name="pref_homescreen_gesture_all_apps">All apps</string>
+    <string name="pref_homescreen_dt_gestures_title">Подвійне натискання</string>
+    <string name="pref_homescreen_swipe_down_gestures_title">Провести вниз</string>
+    <string name="pref_homescreen_swipe_up_gestures_title">Провести вгору</string>
+    <string name="pref_homescreen_gestures_none">Нічого</string>
+    <string name="pref_homescreen_gestures_sleep">Вимкнути екран</string>
+    <string name="pref_homescreen_gestures_torch">Ліхтарик</string>
+    <string name="pref_homescreen_gestures_google">Пошук в Google</string>
+    <string name="pref_homescreen_dt_gestures_google_toast">Додаток Google не встановлено</string>
+    <string name="pref_homescreen_gestures_volume_panel">Панель гучності</string>
+    <string name="pref_homescreen_gestures_clear_notifications">Очистити сповіщення</string>
+    <string name="pref_homescreen_gestures_screenshot">Скріншот</string>
+    <string name="pref_homescreen_gestures_notifications">Повідомлення</string>
+    <string name="pref_homescreen_gestures_qs_panel">Панель Швидких налаштувань</string>
+    <string name="pref_homescreen_gesture_all_apps">Усі додатки</string>
     <!-- Google Feed -->
-    <string name="google_feed_title">Enable Google App and Search</string>
-    <string name="google_feed_summary">Show Google App with right swipe from home screen and use its search engine for hotseats</string>
+    <string name="google_feed_title">Ввімкнути додаток Google і Пошук</string>
+    <string name="google_feed_summary">Показати додаток Google свайпом праворуч із домашнього екрану і використовувати його пошукову систему</string>
     <!-- Grid -->
     <string name="num_default">За замовчуванням</string>
     <string name="number_of_columns_title">Кількість стовпців</string>
@@ -89,20 +89,20 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="reset_hidden_apps_done">Приховані додатки тепер доступні</string>
     <!-- Show labels on icon -->
     <string name="app_show_label_title">Підписи додатків</string>
-    <string name="desktop_show_label_summary">Show the labels of apps on the homescreen</string>
+    <string name="desktop_show_label_summary">Показувати підписи додатків на домашньому екрані</string>
     <string name="allapps_show_label_summary">Показувати підписи додатків в меню додатків</string>
     <!-- QSB -->
-    <string name="hotseat_qsb_preferences">Preferences</string>
-    <string name="label_search">Search</string>
-    <string name="label_voice_search">Voice search</string>
+    <string name="hotseat_qsb_preferences">Налаштування</string>
+    <string name="label_search">Пошук</string>
+    <string name="label_voice_search">Голосовий пошук</string>
     <!-- Hide/Show search bars -->
-    <string name="bottom_search_bar_title">Show search bar on bottom</string>
-    <string name="bottom_search_bar_summary">Show the search bar on the Dock</string>
+    <string name="bottom_search_bar_title">Відображати панель пошуку знизу</string>
+    <string name="bottom_search_bar_summary">Відображати панель пошуку в Док-барі</string>
     <!-- Lock desktop -->
-    <string name="lock_desktop_title">Lock desktop</string>
-    <string name="lock_desktop_summary">Prevent the homescreen from being modified</string>
-    <string name="lock_desktop_toast">Desktop is locked. Unlock it to proceed.</string>
+    <string name="lock_desktop_title">Заблокувати робочий стіл</string>
+    <string name="lock_desktop_summary">Заборонити змінення робочого столу</string>
+    <string name="lock_desktop_toast">Робочий стіл заблокований. Розблокуйте щоб продовжити.</string>
     <!-- QuickSpace -->
-    <string name="show_quickspace_title">At A Glance</string>
-    <string name="show_quickspace_summary">Show at the top of your Home screen</string>
+    <string name="show_quickspace_title">Зворотній відлік</string>
+    <string name="show_quickspace_summary">Відображати в верхній частині Домашнього екрану</string>
 </resources>

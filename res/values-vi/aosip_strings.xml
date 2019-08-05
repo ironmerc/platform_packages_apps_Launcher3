@@ -70,8 +70,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="pref_homescreen_gestures_qs_panel">Bảng cài đặt nhanh</string>
     <string name="pref_homescreen_gesture_all_apps">Tất cả ứng dụng</string>
     <!-- Google Feed -->
-    <string name="google_feed_title">Bật Ứng dụng Google và Tìm kiếm</string>
-    <string name="google_feed_summary">Hiển thị Ứng dụng Google khi vuốt sang phải từ màn hình chính và sử dụng công cụ tìm kiếm Google cho thanh dock</string>
+    <string name="google_feed_title">Bật ứng dụng Google và tìm kiếm</string>
+    <string name="google_feed_summary">Hiển thị ứng dụng Google khi vuốt sang phải từ màn hình chính và sử dụng công cụ tìm kiếm Google cho thanh dock</string>
     <!-- Grid -->
     <string name="num_default">Mặc định</string>
     <string name="number_of_columns_title">Số cột</string>
@@ -103,6 +103,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="lock_desktop_summary">Ngăn chặn các thay đổi trên màn hình chính</string>
     <string name="lock_desktop_toast">Màn hình chính đã bị khoá. Mở khoá để tiếp tục.</string>
     <!-- QuickSpace -->
-    <string name="show_quickspace_title">Nhìn Thoáng qua</string>
-    <string name="show_quickspace_summary">Hiển thị ở đầu Màn hình chính của bạn</string>
+    <string name="show_quickspace_title">Xem nhanh</string>
+    <string name="show_quickspace_summary">Hiển thị ở đầu màn hình chính</string>
 </resources>
