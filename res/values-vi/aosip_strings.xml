@@ -80,7 +80,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="state_loading">Đang áp dụng\u2026</string>
     <!-- Hidden apps -->
     <string name="hide_app">Ẩn ứng dụng</string>
-    <string name="hide_app_sum">Ẩn ứng dụng khỏi ngăn chứa ứng dụng</string>
+    <string name="hide_app_sum">Ẩn khỏi ngăn chứa ứng dụng</string>
     <string name="hide_app_selected">&#160;đã được chọn</string>
     <string name="hidden_app">Tất cả ứng dụng</string>
     <string name="hide_selected">Ẩn ứng dụng được chọn</string>
