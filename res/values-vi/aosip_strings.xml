@@ -55,7 +55,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <!-- Gestures -->
     <string name="allow_swipe_down_clearall_title">Xoá tất cả từ màn hình đa nhiệm</string>
     <string name="allow_swipe_down_clearall_desc">Vuốt xuống để xoá tất cả tác vụ trong màn hình đa nhiệm</string>
-    <string name="pref_homescreen_dt_gestures_title">Chạm đúp</string>
+    <string name="pref_homescreen_dt_gestures_title">Chạm hai lần</string>
     <string name="pref_homescreen_swipe_down_gestures_title">Vuốt xuống</string>
     <string name="pref_homescreen_swipe_up_gestures_title">Vuốt lên</string>
     <string name="pref_homescreen_gestures_none">Không có</string>
